@@ -1,0 +1,341 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\CentralBankCurrency\\CentralBankCurrency.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\CentralBankCurrency.Business\\CentralBankCurrency.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\CentralBankCurrency.Business\\CentralBankCurrency.Business.csproj",
+        "projectName": "CentralBankCurrency.Business",
+        "projectPath": "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\CentralBankCurrency.Business\\CentralBankCurrency.Business.csproj",
+        "packagesPath": "C:\\Users\\omery\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\CentralBankCurrency.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\omery\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\CentralBankCurrency.DataAccess\\CentralBankCurrency.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\CentralBankCurrency.DataAccess\\CentralBankCurrency.DataAccess.csproj"
+              },
+              "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\centralBankCurrency.Models\\CentralBankCurrency.Models.csproj": {
+                "projectPath": "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\centralBankCurrency.Models\\CentralBankCurrency.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\CentralBankCurrency.DataAccess\\CentralBankCurrency.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\CentralBankCurrency.DataAccess\\CentralBankCurrency.DataAccess.csproj",
+        "projectName": "CentralBankCurrency.DataAccess",
+        "projectPath": "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\CentralBankCurrency.DataAccess\\CentralBankCurrency.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\omery\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\CentralBankCurrency.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\omery\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\centralBankCurrency.Models\\CentralBankCurrency.Models.csproj": {
+                "projectPath": "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\centralBankCurrency.Models\\CentralBankCurrency.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\centralBankCurrency.Models\\CentralBankCurrency.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\centralBankCurrency.Models\\CentralBankCurrency.Models.csproj",
+        "projectName": "CentralBankCurrency.Models",
+        "projectPath": "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\centralBankCurrency.Models\\CentralBankCurrency.Models.csproj",
+        "packagesPath": "C:\\Users\\omery\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\centralBankCurrency.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\omery\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\CentralBankCurrency\\CentralBankCurrency.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\CentralBankCurrency\\CentralBankCurrency.csproj",
+        "projectName": "CentralBankCurrency",
+        "projectPath": "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\CentralBankCurrency\\CentralBankCurrency.csproj",
+        "packagesPath": "C:\\Users\\omery\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\CentralBankCurrency\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\omery\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\CentralBankCurrency.Business\\CentralBankCurrency.Business.csproj": {
+                "projectPath": "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\CentralBankCurrency.Business\\CentralBankCurrency.Business.csproj"
+              },
+              "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\centralBankCurrency.Models\\CentralBankCurrency.Models.csproj": {
+                "projectPath": "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\centralBankCurrency.Models\\CentralBankCurrency.Models.csproj"
+              },
+              "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\CsvFormatter\\CsvFormatter.csproj": {
+                "projectPath": "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\CsvFormatter\\CsvFormatter.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Formatters.Xml": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\CsvFormatter\\CsvFormatter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\CsvFormatter\\CsvFormatter.csproj",
+        "projectName": "CsvFormatter",
+        "projectPath": "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\CsvFormatter\\CsvFormatter.csproj",
+        "packagesPath": "C:\\Users\\omery\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\CsvFormatter\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\omery\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\centralBankCurrency.Models\\CentralBankCurrency.Models.csproj": {
+                "projectPath": "C:\\Users\\omery\\Desktop\\Ömer Faruk Yetiş\\Development\\CentralBankCurrency\\centralBankCurrency.Models\\CentralBankCurrency.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

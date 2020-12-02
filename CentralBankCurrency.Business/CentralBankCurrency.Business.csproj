@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CentralBankCurrency.DataAccess\CentralBankCurrency.DataAccess.csproj" />
+    <ProjectReference Include="..\centralBankCurrency.Models\CentralBankCurrency.Models.csproj" />
+  </ItemGroup>
+
+</Project>
